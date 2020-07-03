@@ -1,2 +1,2 @@
 # nectarjs_extern
-Extern NectarJS libs
+NectarJS external libs
