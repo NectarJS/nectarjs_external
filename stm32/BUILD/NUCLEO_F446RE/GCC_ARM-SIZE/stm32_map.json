@@ -1,0 +1,208 @@
+[
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 29,
+            ".data-delta": 0,
+            ".text": 118,
+            ".data": 13
+        },
+        "module": "[fill]"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 127,
+            ".data-delta": 0,
+            ".text": 71192,
+            ".data": 2574
+        },
+        "module": "[lib]/c.a"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 7196,
+            ".data": 0
+        },
+        "module": "[lib]/gcc.a"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 28,
+            ".data-delta": 0,
+            ".text": 188,
+            ".data": 4
+        },
+        "module": "[lib]/misc"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 32,
+            ".data": 0
+        },
+        "module": "[lib]/nosys.a"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 5724,
+            ".data-delta": 0,
+            ".text": 180624,
+            ".data": 145
+        },
+        "module": "[lib]/stdc++.a"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 74,
+            ".data": 0
+        },
+        "module": "drivers/source"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 2,
+            ".data-delta": 0,
+            ".text": 60,
+            ".data": 0
+        },
+        "module": "hal/mbed_critical_section_api.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 82,
+            ".data": 0
+        },
+        "module": "hal/mbed_gpio.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 132,
+            ".data": 0
+        },
+        "module": "hal/mbed_pinmap_common.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 962,
+            ".data": 0
+        },
+        "module": "hal/mbed_ticker_api.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 64,
+            ".data-delta": 0,
+            ".text": 30,
+            ".data": 4
+        },
+        "module": "hal/mbed_us_ticker_api.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 100,
+            ".data": 0
+        },
+        "module": "hal/mpu"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 0,
+            ".data-delta": 0,
+            ".text": 12,
+            ".data": 0
+        },
+        "module": "hal/static_pinmap.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 12153,
+            ".data-delta": 0,
+            ".text": 9916,
+            ".data": 4
+        },
+        "module": "nectar/stm32.o"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 220,
+            ".data-delta": 0,
+            ".text": 2614,
+            ".data": 260
+        },
+        "module": "platform/source"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 5973,
+            ".data-delta": 0,
+            ".text": 6328,
+            ".data": 168
+        },
+        "module": "rtos/source"
+    },
+    {
+        "size": {
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".bss": 552,
+            ".data-delta": 0,
+            ".text": 6728,
+            ".data": 4
+        },
+        "module": "targets/TARGET_STM"
+    },
+    {
+        "summary": {
+            "static_ram": 28048,
+            "total_flash_delta": 0,
+            "total_flash": 289564,
+            "static_ram_delta": 0
+        }
+    }
+]
