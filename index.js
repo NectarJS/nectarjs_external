@@ -1,1 +1,1 @@
-return true;
+module.exports = true;
