@@ -1,5 +1,5 @@
 {
-  "name": "nectarjs",
+  "name": "nectarjs_extern",
   "version": "0.6.0",
   "description": "Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.",
   "scripts": {},
