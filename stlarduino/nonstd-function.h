@@ -1,7 +1,7 @@
 #pragma once
 #ifdef __AVR__
 #include <Arduino.h>
-extern void * operator new(size_t size, void * ptr);
+//extern void * operator new(size_t size, void * ptr);
 namespace nonstd{
   
   template<class T>struct tag{using type=T;};
