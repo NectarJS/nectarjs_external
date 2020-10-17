@@ -2,7 +2,7 @@
 #ifdef __AVR__
 #include <Arduino.h>
 //extern void * operator new(size_t size, void * ptr);
-namespace nonstd{
+namespace std{
   
   template<class T>struct tag{using type=T;};
   template<class Tag>using type_t=typename Tag::type;
